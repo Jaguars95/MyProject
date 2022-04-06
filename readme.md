@@ -1,3 +1,7 @@
  networkInventoryFunctions.py
 
- "C:\Users\labki\Documents\networkFileRWsol.py"
+
+Jordan Labranche
+April 6,2022
+Cis3534C
+
